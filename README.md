@@ -155,6 +155,9 @@ audrey lamy (score = 0.02482)
 
 ### Observations : 
 It seems random... but finally found the Marcia Cross Hollywood style guess_marcia_cross2.jpg !
-------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------
 At this state we cannot conclude, just observes, but one hypothesis is that I can use better quality data for each actress 
 with more differents samples that can help Tensorflow differenciate better.
+
+-------------------------- This study is still in progress when I have time -------------------
